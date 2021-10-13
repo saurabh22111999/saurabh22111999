@@ -1,5 +1,5 @@
 
-<img width="1400" height="450" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
+<img width="950" height="400" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif">
 
 
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> 
